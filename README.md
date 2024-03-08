@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kkas1812
+<em>- 👋 Hi, I’m @Kkas1812</em>
 - 👀 I’m interested in learning how to create programs
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on a stock market analytical tool
