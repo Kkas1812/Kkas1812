@@ -7,5 +7,5 @@
 - ⚡ Fun fact: ...I'm also an amateur <strong>mma fighter</strong> 
 <!---
 Kkas1812/Kkas1812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.<ol><li>find how to create projects<li>figure out how to contribute</ol>
 --->
